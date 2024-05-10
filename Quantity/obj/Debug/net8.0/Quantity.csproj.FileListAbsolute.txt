@@ -1,0 +1,14 @@
+C:\Users\aiden\source\repos\Quantity\bin\Debug\net8.0\Quantity.exe
+C:\Users\aiden\source\repos\Quantity\bin\Debug\net8.0\Quantity.deps.json
+C:\Users\aiden\source\repos\Quantity\bin\Debug\net8.0\Quantity.runtimeconfig.json
+C:\Users\aiden\source\repos\Quantity\bin\Debug\net8.0\Quantity.dll
+C:\Users\aiden\source\repos\Quantity\bin\Debug\net8.0\Quantity.pdb
+C:\Users\aiden\source\repos\Quantity\obj\Debug\net8.0\Quantity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiden\source\repos\Quantity\obj\Debug\net8.0\Quantity.AssemblyInfoInputs.cache
+C:\Users\aiden\source\repos\Quantity\obj\Debug\net8.0\Quantity.AssemblyInfo.cs
+C:\Users\aiden\source\repos\Quantity\obj\Debug\net8.0\Quantity.csproj.CoreCompileInputs.cache
+C:\Users\aiden\source\repos\Quantity\obj\Debug\net8.0\Quantity.dll
+C:\Users\aiden\source\repos\Quantity\obj\Debug\net8.0\refint\Quantity.dll
+C:\Users\aiden\source\repos\Quantity\obj\Debug\net8.0\Quantity.pdb
+C:\Users\aiden\source\repos\Quantity\obj\Debug\net8.0\Quantity.genruntimeconfig.cache
+C:\Users\aiden\source\repos\Quantity\obj\Debug\net8.0\ref\Quantity.dll
